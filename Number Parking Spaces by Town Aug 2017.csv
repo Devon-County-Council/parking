@@ -1,0 +1,601 @@
+﻿Town,Restriction Type,Total Estimated length (m),Total Estimated places (@5.5m each)
+Appledore,Disabled Parking,35,6
+Appledore,Keep Clear Marking,52,9
+Appledore,Loading Only,13,2
+Appledore,No Waiting,1225,222
+Appledore,No Waiting At Any Time,2863,520
+Ashburton,Disabled Parking,23,4
+Ashburton,Keep Clear Marking,38,6
+Ashburton,Limited Waiting,182,33
+Ashburton,Loading Only,24,4
+Ashburton,No Loading At Any Time,684,124
+Ashburton,No Waiting,277,50
+Ashburton,No Waiting At Any Time,5036,915
+Ashprington,No Waiting At Any Time,495,89
+Aveton Gifford,Keep Clear Marking,9,1
+Aveton Gifford,No Waiting,31,5
+Aveton Gifford,No Waiting At Any Time,1350,245
+Axminster,Disabled Parking,18,3
+Axminster,Keep Clear Marking,27,4
+Axminster,Limited Waiting,309,56
+Axminster,Loading Only,69,12
+Axminster,No Waiting,2864,520
+Axminster,No Waiting At Any Time,3758,683
+Bampton,No Waiting,565,102
+Bampton,No Waiting At Any Time,674,122
+Bantham,No Waiting,494,89
+Bantham,No Waiting At Any Time,456,82
+Barnstaple,Clearway route,2360,429
+Barnstaple,Disabled Parking,192,34
+Barnstaple,Keep Clear Marking,185,33
+Barnstaple,Limited Waiting,3098,563
+Barnstaple,Loading Only,434,78
+Barnstaple,No Loading,1794,326
+Barnstaple,No Loading At Any Time,1582,287
+Barnstaple,No Waiting,12381,2251
+Barnstaple,No Waiting At Any Time,33950,6172
+Barnstaple,Parking Place,223,40
+Barnstaple,Pay & Display,238,43
+Barnstaple,Residents Permit Parking,7142,1298
+Battisborough Cross,No Waiting At Any Time,66,12
+Beer,Disabled Parking,15,2
+Beer,Limited Waiting,189,34
+Beer,No Waiting,3256,591
+Beer,No Waiting At Any Time,6057,1101
+Bere Alston,Disabled Parking,7,1
+Bere Alston,Limited Waiting,28,5
+Bere Alston,No Waiting,209,38
+Bere Alston,No Waiting At Any Time,670,121
+Berrynarbor,Limited Waiting,17,3
+Berrynarbor,No Loading,22,4
+Berrynarbor,No Waiting,22,3
+Berrynarbor,No Waiting At Any Time,411,74
+Bickington,Limited Waiting,29,5
+Bickington,No Waiting At Any Time,715,130
+Bideford,Disabled Parking,72,13
+Bideford,Emergency Service Vehicles,20,3
+Bideford,Keep Clear Marking,90,16
+Bideford,Limited Waiting,2267,412
+Bideford,Loading Only,124,22
+Bideford,No Loading,1499,272
+Bideford,No Loading At Any Time,810,147
+Bideford,No Waiting,4116,748
+Bideford,No Waiting At Any Time,12399,2254
+Bideford,Pay & Display,405,73
+Bideford,Residents Permit Parking,319,57
+Bigbury on Sea,No Waiting,983,178
+Bigbury on Sea,No Waiting At Any Time,2142,389
+Bishops Tawton,Disabled Parking,5,0
+Bishops Tawton,No Waiting At Any Time,228,41
+Bishopsteignton,Keep Clear Marking,56,10
+Bishopsteignton,Limited Waiting,30,5
+Bishopsteignton,No Waiting At Any Time,913,166
+Blackawton,Keep Clear Marking,25,4
+Bovey Tracey,Emergency Service Vehicles,8,1
+Bovey Tracey,Keep Clear Marking,26,4
+Bovey Tracey,Limited Waiting,266,48
+Bovey Tracey,No Waiting,303,55
+Bovey Tracey,No Waiting At Any Time,3290,598
+Bow,No Waiting,429,78
+Bow,No Waiting At Any Time,1276,231
+Braunton,Disabled Parking,19,3
+Braunton,Keep Clear Marking,10,1
+Braunton,Limited Waiting,156,28
+Braunton,Loading Only,4,0
+Braunton,No Loading,449,81
+Braunton,No Waiting,191,34
+Braunton,No Waiting At Any Time,8174,1486
+Bridgerule,Keep Clear Marking,23,4
+Brixton,Keep Clear Marking,18,3
+Brixton,No Waiting At Any Time,116,21
+Broadclyst,Keep Clear Marking,79,14
+Broadclyst,No Waiting At Any Time,741,134
+Buckfast,No Waiting,641,116
+Buckfast,No Waiting At Any Time,491,89
+Buckfastleigh,Disabled Parking,18,3
+Buckfastleigh,Keep Clear Marking,66,11
+Buckfastleigh,Limited Waiting,103,18
+Buckfastleigh,Loading Only,44,7
+Buckfastleigh,No Loading,12,2
+Buckfastleigh,No Loading At Any Time,435,79
+Buckfastleigh,No Waiting,1856,337
+Buckfastleigh,No Waiting At Any Time,2768,503
+Buckland in the Moor,No Waiting At Any Time,635,115
+Buckland Monachorum,No Waiting At Any Time,10,1
+Budleigh Salterton,Limited Waiting,408,74
+Budleigh Salterton,No Loading At Any Time,52,9
+Budleigh Salterton,No Waiting,43,7
+Budleigh Salterton,No Waiting At Any Time,7346,1335
+Budleigh Salterton,Pay & Display,246,44
+Chagford,Disabled Parking,38,6
+Chagford,Limited Waiting,192,34
+Chagford,Loading Only,54,9
+Chagford,No Waiting At Any Time,2605,473
+Chagford,Permit Holders Only,12,2
+Challaborough,No Waiting At Any Time,137,24
+Chillington,Limited Waiting,17,3
+Chillington,No Waiting At Any Time,176,31
+Chivenor,No Waiting At Any Time,738,134
+Christow,Keep Clear Marking,32,5
+Chudleigh,Disabled Parking,21,3
+Chudleigh,Keep Clear Marking,8,1
+Chudleigh,Limited Waiting,119,21
+Chudleigh,Loading Only,37,6
+Chudleigh,No Waiting At Any Time,3392,616
+Chudleigh Knighton,Keep Clear Marking,33,6
+Clovelly,Loading Only,15,2
+Clovelly,No Loading At Any Time,385,69
+Clovelly,No Waiting At Any Time,433,78
+Clyst Honiton,Clearway route,997,181
+Clyst Honiton,No Waiting,31,5
+Clyst Honiton,No Waiting At Any Time,2028,368
+Clyst St Mary,Limited Waiting,71,12
+Clyst St Mary,No Waiting,117,21
+Clyst St Mary,No Waiting At Any Time,1115,202
+Cockwood,Keep Clear Marking,27,4
+Cockwood,No Waiting At Any Time,209,38
+Colyford,Keep Clear Marking,22,3
+Colyton,Disabled Parking,11,2
+Colyton,Keep Clear Marking,35,6
+Colyton,No Waiting,550,99
+Colyton,No Waiting At Any Time,691,125
+Combe Martin,Disabled Parking,25,4
+Combe Martin,Limited Waiting,124,22
+Combe Martin,No Loading At Any Time,44,8
+Combe Martin,No Waiting,657,119
+Combe Martin,No Waiting At Any Time,5923,1076
+Combe Martin,Parking Place,166,30
+Combe Martin,Pay & Display,95,17
+Combe Martin,Public Service Vehicle Parking,51,9
+Copplestone,Disabled Parking,10,1
+Copplestone,No Waiting At Any Time,612,111
+Cornwood,Keep Clear Marking,26,4
+Cornwood,Limited Waiting,9,1
+Crediton,Disabled Parking,66,12
+Crediton,Limited Waiting,948,172
+Crediton,Loading Only,78,14
+Crediton,No Loading,1058,192
+Crediton,No Loading At Any Time,53,9
+Crediton,No Waiting,2594,471
+Crediton,No Waiting At Any Time,11418,2075
+Croyde,Clearway route,1035,188
+Croyde,Limited Waiting,108,19
+Croyde,No Waiting At Any Time,5916,1075
+Cullompton,Disabled Parking,19,3
+Cullompton,Keep Clear Marking,22,4
+Cullompton,Limited Waiting,255,46
+Cullompton,Loading Only,62,11
+Cullompton,No Loading,81,14
+Cullompton,No Loading At Any Time,150,27
+Cullompton,No Waiting,297,54
+Cullompton,No Waiting At Any Time,4166,757
+Cullompton,Permit Holders Only,12,2
+Dartington,No Waiting At Any Time,643,116
+Dartmouth,Disabled Parking,31,5
+Dartmouth,Emergency Service Vehicles,15,2
+Dartmouth,Keep Clear Marking,81,14
+Dartmouth,Limited Waiting,1523,276
+Dartmouth,Loading Only,22,3
+Dartmouth,No Loading,452,82
+Dartmouth,No Waiting,811,147
+Dartmouth,No Waiting At Any Time,15327,2786
+Dartmouth,Permit Holders Only,30,5
+Dartmouth,Public Service Vehicle Parking,50,9
+Dartmouth,Residents Permit Parking,101,18
+Dawlish,Disabled Parking,72,13
+Dawlish,Emergency Service Vehicles,6,1
+Dawlish,Keep Clear Marking,229,41
+Dawlish,Limited Waiting,308,56
+Dawlish,Loading Only,66,11
+Dawlish,M/Cycle Parking,6,1
+Dawlish,No Loading At Any Time,415,75
+Dawlish,No Waiting,343,62
+Dawlish,No Waiting At Any Time,12639,2298
+Dawlish,Pay & Display,467,84
+Dawlish,Public Service Vehicle Parking,30,5
+Dawlish Warren,No Waiting At Any Time,823,149
+Diptford,No Waiting At Any Time,152,27
+Dittisham,No Waiting At Any Time,307,55
+Doddiscombsleigh,Keep Clear Marking,62,11
+Dousland,No Waiting At Any Time,556,101
+Down Thomas,No Waiting At Any Time,2,0
+Dunkeswell,No Waiting At Any Time,623,113
+East Allington,Keep Clear Marking,34,6
+East Budleigh,No Waiting At Any Time,755,137
+East Portlemouth,No Waiting At Any Time,1292,234
+East the Water,Keep Clear Marking,42,7
+East the Water,No Waiting,383,69
+East the Water,No Waiting At Any Time,3033,551
+Ermington,Keep Clear Marking,78,14
+Ermington,No Waiting At Any Time,52,9
+Exeter,Clearway route,9490,1725
+Exeter,Disabled Parking,1950,354
+Exeter,Emergency Service Vehicles,20,3
+Exeter,Keep Clear Marking,1420,258
+Exeter,Limited Waiting,7278,1323
+Exeter,Loading Only,1111,202
+Exeter,M/Cycle Parking,76,13
+Exeter,No Loading,12894,2344
+Exeter,No Loading At Any Time,4073,740
+Exeter,No Waiting,24983,4542
+Exeter,No Waiting At Any Time,151320,27512
+Exeter,Pay & Display,8030,1459
+Exeter,Permit Holders Only,185,33
+Exeter,Public Service Vehicle Parking,56,10
+Exeter,Residents Permit Parking,54093,9835
+Exminster,Keep Clear Marking,41,7
+Exminster,Limited Waiting,30,5
+Exminster,No Waiting At Any Time,1729,314
+Exminster,Permit Holders Only,11,2
+Exmouth,Disabled Parking,327,59
+Exmouth,Keep Clear Marking,188,34
+Exmouth,Limited Waiting,1715,311
+Exmouth,Loading Only,242,43
+Exmouth,No Loading At Any Time,305,55
+Exmouth,No Waiting,1698,308
+Exmouth,No Waiting At Any Time,39333,7151
+Exmouth,Pay & Display,1170,212
+Exmouth,Permit Holders Only,216,39
+Exton,No Waiting At Any Time,138,25
+Ford,No Waiting,53,9
+Ford,No Waiting At Any Time,81,14
+Fremington,Keep Clear Marking,43,7
+Fremington,No Loading,49,8
+Fremington,No Waiting,13,2
+Fremington,No Waiting At Any Time,497,90
+Frithelstock,No Waiting At Any Time,91,16
+Galmpton,No Waiting At Any Time,372,67
+Georgeham,Keep Clear Marking,46,8
+Georgeham,No Waiting,140,25
+Georgeham,No Waiting At Any Time,287,52
+Great Torrington,Disabled Parking,7,1
+Great Torrington,Keep Clear Marking,30,5
+Great Torrington,Limited Waiting,361,65
+Great Torrington,Loading Only,55,9
+Great Torrington,No Loading,357,64
+Great Torrington,No Loading At Any Time,37,6
+Great Torrington,No Waiting,2506,455
+Great Torrington,No Waiting At Any Time,4117,748
+Harbertonford,Disabled Parking,14,2
+Harbertonford,Keep Clear Marking,62,11
+Harbertonford,No Waiting At Any Time,285,51
+Hartland,Keep Clear Marking,42,7
+Hartland,Limited Waiting,88,15
+Hartland,No Waiting At Any Time,536,97
+Hatherleigh,Keep Clear Marking,55,9
+Hatherleigh,Loading Only,8,1
+Heathfield,No Waiting,65,11
+Heathfield,No Waiting At Any Time,138,25
+Heybrook Bay,No Waiting At Any Time,354,64
+Hillhead,No Waiting At Any Time,251,45
+Holbeton,No Waiting,446,81
+Holbeton,No Waiting At Any Time,280,50
+Holne,No Waiting At Any Time,1,0
+Holsworthy,Disabled Parking,8,1
+Holsworthy,Keep Clear Marking,25,4
+Holsworthy,Limited Waiting,195,35
+Holsworthy,Loading Only,64,11
+Holsworthy,No Loading,265,48
+Holsworthy,No Loading At Any Time,17,3
+Holsworthy,No Waiting,2278,414
+Holsworthy,No Waiting At Any Time,4311,783
+Honiton,Disabled Parking,25,4
+Honiton,Keep Clear Marking,103,18
+Honiton,Limited Waiting,636,115
+Honiton,Loading Only,42,7
+Honiton,No Loading,241,43
+Honiton,No Loading At Any Time,28,5
+Honiton,No Waiting,1642,298
+Honiton,No Waiting At Any Time,13539,2461
+Hope Cove,Limited Waiting,29,5
+Hope Cove,No Waiting,524,95
+Hope Cove,No Waiting At Any Time,524,95
+Horrabridge,Keep Clear Marking,26,4
+Horrabridge,No Waiting At Any Time,306,55
+Ide,Keep Clear Marking,24,4
+Ide,No Waiting,18,3
+Ide,No Waiting At Any Time,680,123
+Ilfracombe,Disabled Parking,135,24
+Ilfracombe,Keep Clear Marking,173,31
+Ilfracombe,Limited Waiting,480,87
+Ilfracombe,Loading Only,156,28
+Ilfracombe,No Loading,972,176
+Ilfracombe,No Loading At Any Time,910,165
+Ilfracombe,No Waiting,4109,747
+Ilfracombe,No Waiting At Any Time,16760,3047
+Ilfracombe,Pay & Display,477,86
+Ilfracombe,Public Service Vehicle Parking,15,2
+Ilsington,Keep Clear Marking,26,4
+Instow,Limited Waiting,490,89
+Instow,Loading Only,30,5
+Instow,No Loading At Any Time,150,27
+Instow,No Waiting,635,115
+Instow,No Waiting At Any Time,2795,508
+Ipplepen,Keep Clear Marking,30,5
+Ipplepen,No Waiting At Any Time,179,32
+Ivybridge,Disabled Parking,77,14
+Ivybridge,Keep Clear Marking,183,33
+Ivybridge,Limited Waiting,307,55
+Ivybridge,Loading Only,21,3
+Ivybridge,No Loading At Any Time,883,160
+Ivybridge,No Waiting,610,110
+Ivybridge,No Waiting At Any Time,8010,1456
+Ivybridge,Residents Permit Parking,620,112
+Kennford,Keep Clear Marking,53,9
+Kenton,No Waiting At Any Time,830,150
+Kingsbridge,Disabled Parking,38,6
+Kingsbridge,Keep Clear Marking,94,17
+Kingsbridge,Limited Waiting,760,138
+Kingsbridge,Loading Only,128,23
+Kingsbridge,No Loading,471,85
+Kingsbridge,No Loading At Any Time,55,9
+Kingsbridge,No Waiting,2892,525
+Kingsbridge,No Waiting At Any Time,11151,2027
+Kingsbridge,Permit Holders Only,100,18
+Kingskerswell,Keep Clear Marking,72,13
+Kingskerswell,Limited Waiting,120,21
+Kingskerswell,No Waiting At Any Time,2864,520
+Kingsteignton,Disabled Parking,13,2
+Kingsteignton,Keep Clear Marking,122,22
+Kingsteignton,No Waiting At Any Time,4845,880
+Kingswear,Limited Waiting,29,5
+Kingswear,No Waiting,67,12
+Kingswear,No Waiting At Any Time,3634,660
+Kingswear,Permit Holders Only,432,78
+Lee Mill,No Waiting At Any Time,2581,469
+Lee Mill Bridge,Disabled Parking,6,1
+Lee Mill Bridge,No Waiting At Any Time,326,59
+Liverton,Keep Clear Marking,22,3
+Liverton,No Loading At Any Time,157,28
+Liverton,No Waiting At Any Time,215,39
+Loddiswell,Keep Clear Marking,30,5
+Loddiswell,No Waiting At Any Time,108,19
+Lympstone,Limited Waiting,56,10
+Lympstone,No Waiting At Any Time,3281,596
+Lynmouth,Disabled Parking,21,3
+Lynmouth,Limited Waiting,332,60
+Lynmouth,Loading Only,12,2
+Lynmouth,No Loading At Any Time,88,15
+Lynmouth,No Waiting,747,135
+Lynmouth,No Waiting At Any Time,1530,278
+Lynton,Disabled Parking,19,3
+Lynton,Limited Waiting,439,79
+Lynton,No Loading At Any Time,70,12
+Lynton,No Waiting,1143,207
+Lynton,No Waiting At Any Time,3081,560
+Malborough,Keep Clear Marking,51,9
+Malborough,No Waiting At Any Time,908,165
+Marldon,Disabled Parking,7,1
+Marldon,Keep Clear Marking,74,13
+Marldon,No Waiting At Any Time,838,152
+Marldon,Residents Permit Parking,21,3
+Modbury,Keep Clear Marking,94,17
+Modbury,Limited Waiting,80,14
+Modbury,No Waiting At Any Time,2088,379
+Moorhaven,No Waiting At Any Time,35,6
+Moretonhampstead,Disabled Parking,7,1
+Moretonhampstead,Keep Clear Marking,62,11
+Moretonhampstead,Limited Waiting,192,34
+Moretonhampstead,Loading Only,18,3
+Moretonhampstead,No Loading,14,2
+Moretonhampstead,No Loading At Any Time,168,30
+Moretonhampstead,No Waiting,34,6
+Moretonhampstead,No Waiting At Any Time,3138,570
+Mortehoe,Clearway route,496,90
+Mortehoe,Limited Waiting,12,2
+Mortehoe,No Waiting,1011,183
+Mortehoe,No Waiting At Any Time,786,142
+Newton Abbot,Disabled Parking,226,41
+Newton Abbot,Keep Clear Marking,275,50
+Newton Abbot,Limited Waiting,1277,232
+Newton Abbot,Loading Only,390,70
+Newton Abbot,No Loading,908,165
+Newton Abbot,No Loading At Any Time,2983,542
+Newton Abbot,No Waiting,9246,1681
+Newton Abbot,No Waiting At Any Time,27044,4917
+Newton Abbot,Pay & Display,1407,255
+Newton Abbot,Permit Holders Only,12,2
+Newton Abbot,Residents Permit Parking,3820,694
+Newton Ferrers,Keep Clear Marking,50,9
+Newton Ferrers,Limited Waiting,158,28
+Newton Ferrers,No Waiting,391,71
+Newton Ferrers,No Waiting At Any Time,935,170
+Newton Poppleford,Keep Clear Marking,40,7
+Newton Poppleford,No Waiting At Any Time,233,42
+North Tawton,Disabled Parking,28,5
+North Tawton,Keep Clear Marking,32,5
+North Tawton,Loading Only,18,3
+North Tawton,No Loading At Any Time,323,58
+North Tawton,No Waiting At Any Time,1961,356
+Northam,Keep Clear Marking,107,19
+Northam,Limited Waiting,81,14
+Northam,No Waiting,209,38
+Northam,No Waiting At Any Time,4282,778
+Noss Mayo,No Waiting At Any Time,1165,211
+Ogwell,Keep Clear Marking,45,8
+Ogwell,No Waiting At Any Time,749,136
+Okehampton,Disabled Parking,99,18
+Okehampton,Limited Waiting,591,107
+Okehampton,Loading Only,101,18
+Okehampton,No Loading,74,13
+Okehampton,No Loading At Any Time,600,109
+Okehampton,No Waiting,907,164
+Okehampton,No Waiting At Any Time,9126,1659
+Okehampton,Public Service Vehicle Parking,22,4
+Otterton,No Waiting At Any Time,641,116
+Ottery St Mary,Disabled Parking,23,4
+Ottery St Mary,Emergency Service Vehicles,36,6
+Ottery St Mary,Limited Waiting,232,42
+Ottery St Mary,Loading Only,30,5
+Ottery St Mary,No Loading,74,13
+Ottery St Mary,No Waiting,231,41
+Ottery St Mary,No Waiting At Any Time,4715,857
+Parkham,Keep Clear Marking,53,9
+Plympton,No Waiting At Any Time,2798,508
+Poundsgate,No Waiting At Any Time,591,107
+Princetown,Keep Clear Marking,51,9
+Princetown,Limited Waiting,61,11
+Princetown,No Waiting,1054,191
+Princetown,No Waiting At Any Time,2746,499
+Rockbeare,Keep Clear Marking,38,6
+Rockbeare,No Waiting,46,8
+Salcombe,Disabled Parking,14,2
+Salcombe,Keep Clear Marking,40,7
+Salcombe,Limited Waiting,400,72
+Salcombe,No Loading,617,112
+Salcombe,No Loading At Any Time,215,39
+Salcombe,No Waiting At Any Time,17201,3127
+Salcombe,Residents Permit Parking,292,53
+Sampford Peverell,Limited Waiting,106,19
+Sampford Peverell,No Waiting At Any Time,1584,287
+Seaton,Disabled Parking,175,31
+Seaton,Emergency Service Vehicles,22,3
+Seaton,Keep Clear Marking,99,18
+Seaton,Limited Waiting,575,104
+Seaton,Loading Only,37,6
+Seaton,No Loading,103,18
+Seaton,No Loading At Any Time,717,130
+Seaton,No Waiting,460,83
+Seaton,No Waiting At Any Time,12522,2276
+Seaton,Pay & Display,454,82
+Seaton,Residents Permit Parking,140,25
+Shaldon,Keep Clear Marking,29,5
+Shaldon,Limited Waiting,161,29
+Shaldon,Loading Only,26,4
+Shaldon,No Loading,60,10
+Shaldon,No Loading At Any Time,277,50
+Shaldon,No Waiting,5,0
+Shaldon,No Waiting At Any Time,7750,1409
+Shaugh Prior,Keep Clear Marking,32,5
+Sidbury,No Waiting At Any Time,240,43
+Sidford,No Loading,21,3
+Sidford,No Waiting,730,132
+Sidford,No Waiting At Any Time,626,113
+Sidmouth,Disabled Parking,133,24
+Sidmouth,Keep Clear Marking,135,24
+Sidmouth,Limited Waiting,754,137
+Sidmouth,Loading Only,108,19
+Sidmouth,No Loading,271,49
+Sidmouth,No Loading At Any Time,1214,220
+Sidmouth,No Waiting,4901,891
+Sidmouth,No Waiting At Any Time,14927,2714
+Sidmouth,Pay & Display,246,44
+Sidmouth,Public Service Vehicle Parking,45,8
+Silverton,No Waiting At Any Time,523,95
+Slapton,No Waiting,1,0
+South Brent,Disabled Parking,6,1
+South Brent,Keep Clear Marking,41,7
+South Brent,Limited Waiting,98,17
+South Brent,Loading Only,15,2
+South Brent,No Waiting,189,34
+South Brent,No Waiting At Any Time,1345,244
+South Milton,No Waiting,488,88
+South Molton,Disabled Parking,20,3
+South Molton,Keep Clear Marking,66,12
+South Molton,Limited Waiting,523,95
+South Molton,Loading Only,23,4
+South Molton,No Loading At Any Time,72,13
+South Molton,No Waiting,4703,855
+South Molton,No Waiting At Any Time,2790,507
+Staddiscombe,No Waiting At Any Time,2,0
+Starcross,Disabled Parking,13,2
+Starcross,Keep Clear Marking,44,8
+Starcross,Limited Waiting,40,7
+Starcross,No Waiting,166,30
+Starcross,No Waiting At Any Time,1017,184
+Stoke Canon,Keep Clear Marking,19,3
+Stoke Canon,No Waiting,90,16
+Stoke Fleming,Keep Clear Marking,3,0
+Stoke Fleming,Limited Waiting,12,2
+Stoke Fleming,No Waiting At Any Time,406,73
+Stoke Gabriel,Disabled Parking,6,1
+Stoke Gabriel,Keep Clear Marking,38,6
+Stoke Gabriel,Limited Waiting,60,10
+Stoke Gabriel,No Waiting At Any Time,1774,322
+Stokeinteignhead,Keep Clear Marking,26,4
+Stokenham,Keep Clear Marking,35,6
+Stokenham,No Waiting At Any Time,30,5
+Tavistock,Clearway route,715,129
+Tavistock,Disabled Parking,115,20
+Tavistock,Keep Clear Marking,107,19
+Tavistock,Limited Waiting,1484,269
+Tavistock,Loading Only,137,24
+Tavistock,No Loading,248,45
+Tavistock,No Loading At Any Time,1464,266
+Tavistock,No Waiting,1980,359
+Tavistock,No Waiting At Any Time,15773,2867
+Tavistock,Public Service Vehicle Parking,70,12
+Tedburn St Mary,Keep Clear Marking,31,5
+Teignmouth,Disabled Parking,47,8
+Teignmouth,Emergency Service Vehicles,11,1
+Teignmouth,Keep Clear Marking,346,62
+Teignmouth,Limited Waiting,668,121
+Teignmouth,Loading Only,187,34
+Teignmouth,No Loading,309,56
+Teignmouth,No Loading At Any Time,500,90
+Teignmouth,No Waiting,356,64
+Teignmouth,No Waiting At Any Time,19554,3555
+Teignmouth,Pay & Display,1393,253
+Teignmouth,Permit Holders Only,35,6
+Teignmouth,Public Service Vehicle Parking,53,9
+Teignmouth,Residents Permit Parking,1417,257
+Thurlestone,Disabled Parking,22,4
+Thurlestone,Keep Clear Marking,45,8
+Thurlestone,No Waiting,793,144
+Thurlestone,No Waiting At Any Time,864,157
+Tiverton,Disabled Parking,87,15
+Tiverton,Keep Clear Marking,246,44
+Tiverton,Limited Waiting,754,137
+Tiverton,Loading Only,101,18
+Tiverton,No Loading,229,41
+Tiverton,No Loading At Any Time,150,27
+Tiverton,No Waiting,2131,387
+Tiverton,No Waiting At Any Time,19284,3506
+Topsham,Disabled Parking,53,9
+Topsham,Keep Clear Marking,45,8
+Topsham,Limited Waiting,407,73
+Topsham,Loading Only,18,3
+Topsham,No Waiting,35,6
+Topsham,No Waiting At Any Time,6323,1149
+Torcross,No Waiting,1106,201
+Torcross,No Waiting At Any Time,81,14
+Totnes,Disabled Parking,87,15
+Totnes,Keep Clear Marking,237,43
+Totnes,Limited Waiting,713,129
+Totnes,Loading Only,74,13
+Totnes,No Loading,12,2
+Totnes,No Loading At Any Time,40,7
+Totnes,No Waiting,3559,647
+Totnes,No Waiting At Any Time,16587,3015
+Totnes,Pay & Display,328,59
+Totnes,Permit Holders Only,33,6
+Totnes,Residents Permit Parking,3234,587
+Uffculme,No Waiting At Any Time,1198,217
+Ugborough,Keep Clear Marking,33,5
+Uplyme,No Waiting At Any Time,49,8
+Wembury,Keep Clear Marking,35,6
+Wembury,No Waiting,579,105
+West Alvington,No Waiting At Any Time,928,168
+West Charleton,Keep Clear Marking,27,4
+Westward Ho!,Limited Waiting,113,20
+Westward Ho!,No Loading At Any Time,298,54
+Westward Ho!,No Waiting At Any Time,2271,412
+Widecombe in the Moor,Keep Clear Marking,26,4
+Widecombe in the Moor,No Waiting,1795,326
+Willand,No Waiting At Any Time,867,157
+Woodbury,Limited Waiting,47,8
+Woolacombe,Clearway route,865,157
+Woolacombe,Limited Waiting,421,76
+Woolacombe,No Loading At Any Time,40,7
+Woolacombe,No Waiting,631,114
+Woolacombe,No Waiting At Any Time,4095,744
+Woolacombe,Pay & Display,559,101
+Woolacombe,Residents Permit Parking,319,57
+Woolston Green,Keep Clear Marking,51,9
+Woolwell,No Waiting At Any Time,145,26
+Yealmpton,Keep Clear Marking,27,4
+Yealmpton,Limited Waiting,78,14
+Yealmpton,No Waiting,75,13
+Yealmpton,No Waiting At Any Time,591,107
+Yelverton,Limited Waiting,98,17
+Yelverton,No Waiting At Any Time,314,57
