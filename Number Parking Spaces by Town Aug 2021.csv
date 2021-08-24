@@ -1,0 +1,771 @@
+"Town","Restriction Type","Total Estimated length (m)","Total Estimated spaces"
+"Appledore","Bus Stop Clearway",72.00,4.00
+"Appledore","Disabled Parking",30.00,4.00
+"Appledore","Disabled Parking (Advisory)",17.00,2.00
+"Appledore","Keep Clear Marking (TRO)",53.00,8.00
+"Appledore","Loading Only",13.00,1.00
+"Appledore","No Waiting",1095.00,197.00
+"Appledore","No Waiting At Any Time",1873.00,327.00
+"Ashburton","Bus Stop Clearway",37.00,2.00
+"Ashburton","Disabled Parking",23.00,3.00
+"Ashburton","Disabled Parking (Advisory)",7.00,1.00
+"Ashburton","Keep Clear Marking (TRO)",38.00,6.00
+"Ashburton","Limited Waiting",196.00,38.00
+"Ashburton","Loading Only",12.00,1.00
+"Ashburton","No Loading At Any Time",669.00,112.00
+"Ashburton","No Waiting",238.00,39.00
+"Ashburton","No Waiting At Any Time",4601.00,805.00
+"Ashburton","Permit Holders Only",5.00,1.00
+"Ashprington","No Waiting At Any Time",495.00,89.00
+"Aveton Gifford","Keep Clear Marking (TRO)",9.00,1.00
+"Aveton Gifford","No Waiting",31.00,5.00
+"Aveton Gifford","No Waiting At Any Time",1264.00,222.00
+"Axminster","Bus Stop Clearway",45.00,3.00
+"Axminster","Disabled Parking",18.00,2.00
+"Axminster","Disabled Parking (Advisory)",4.00,1.00
+"Axminster","Keep Clear Marking (Advisory)",24.00,4.00
+"Axminster","Keep Clear Marking (TRO)",114.00,19.00
+"Axminster","Limited Waiting",273.00,52.00
+"Axminster","Loading Only",69.00,7.00
+"Axminster","No Waiting",2791.00,487.00
+"Axminster","No Waiting At Any Time",3604.00,625.00
+"Bampton","No Waiting",537.00,95.00
+"Bampton","No Waiting At Any Time",639.00,109.00
+"Bantham","No Waiting",494.00,89.00
+"Bantham","No Waiting At Any Time",456.00,81.00
+"Barnstaple","Bus Stop Clearway",118.00,8.00
+"Barnstaple","Clearway route",1736.00,317.00
+"Barnstaple","Disabled Parking",149.00,19.00
+"Barnstaple","Keep Clear Marking (TRO)",215.00,36.00
+"Barnstaple","Limited Waiting",2542.00,493.00
+"Barnstaple","Loading Only",402.00,37.00
+"Barnstaple","No Loading",1808.00,322.00
+"Barnstaple","No Loading At Any Time",1606.00,283.00
+"Barnstaple","No Waiting",8398.00,1475.00
+"Barnstaple","No Waiting At Any Time",23311.00,4137.00
+"Barnstaple","Parking Place",224.00,36.00
+"Barnstaple","Pay & Display",237.00,45.00
+"Barnstaple","Residents Permit Parking",4231.00,829.00
+"Barnstaple","Taxi Bay",31.00,5.00
+"Battisborough Cross","No Waiting At Any Time",66.00,12.00
+"Beer","Disabled Parking",8.00,1.00
+"Beer","Limited Waiting",212.00,39.00
+"Beer","No Waiting",3123.00,559.00
+"Beer","No Waiting At Any Time",5862.00,1044.00
+"Beer","Public Service Vehicle Parking",19.00,1.00
+"Bere Alston","Bus Stop Clearway",11.00,1.00
+"Bere Alston","Disabled Parking",7.00,1.00
+"Bere Alston","Limited Waiting",35.00,7.00
+"Bere Alston","Loading Only",22.00,2.00
+"Bere Alston","No Waiting",198.00,33.00
+"Bere Alston","No Waiting At Any Time",699.00,122.00
+"Berrynarbor","Limited Waiting",17.00,2.00
+"Berrynarbor","No Loading",22.00,4.00
+"Berrynarbor","No Waiting",22.00,3.00
+"Berrynarbor","No Waiting At Any Time",407.00,72.00
+"Bickington","Bus Stop Clearway",187.00,12.00
+"Bickington","Limited Waiting",29.00,6.00
+"Bickington","No Waiting At Any Time",1076.00,190.00
+"Bideford","Bus Stop Clearway",175.00,12.00
+"Bideford","Disabled Parking",87.00,7.00
+"Bideford","Emergency Service Vehicles",20.00,4.00
+"Bideford","Keep Clear Marking (TRO)",90.00,14.00
+"Bideford","Limited Waiting",2141.00,414.00
+"Bideford","Loading Only",124.00,12.00
+"Bideford","No Loading",1498.00,268.00
+"Bideford","No Loading At Any Time",714.00,124.00
+"Bideford","No Waiting",3620.00,632.00
+"Bideford","No Waiting At Any Time",10502.00,1851.00
+"Bideford","Pay & Display",406.00,81.00
+"Bideford","Residents Permit Parking",292.00,56.00
+"Bigbury On Sea","No Waiting",981.00,176.00
+"Bigbury On Sea","No Waiting At Any Time",2060.00,366.00
+"Bishops Tawton","Bus Stop Clearway",23.00,1.00
+"Bishops Tawton","Disabled Parking",5.00,1.00
+"Bishops Tawton","No Waiting At Any Time",227.00,37.00
+"Bishopsteignton","Disabled Parking",6.00,1.00
+"Bishopsteignton","Keep Clear Marking (TRO)",57.00,9.00
+"Bishopsteignton","Limited Waiting",31.00,6.00
+"Bishopsteignton","No Waiting At Any Time",1020.00,174.00
+"Blackawton","Keep Clear Marking (TRO)",25.00,4.00
+"Blackawton","No Waiting At Any Time",62.00,10.00
+"Bovey Tracey","Bus Stop Clearway",7.00,1.00
+"Bovey Tracey","Keep Clear Marking (TRO)",25.00,4.00
+"Bovey Tracey","Limited Waiting",252.00,45.00
+"Bovey Tracey","Loading Only",11.00,1.00
+"Bovey Tracey","No Loading",8.00,1.00
+"Bovey Tracey","No Waiting",362.00,60.00
+"Bovey Tracey","No Waiting At Any Time",3692.00,644.00
+"Bow","No Waiting",429.00,77.00
+"Bow","No Waiting At Any Time",1276.00,225.00
+"Bradninch","No Waiting At Any Time",391.00,66.00
+"Braunton","Bus Stop Clearway",224.00,15.00
+"Braunton","Disabled Parking",19.00,2.00
+"Braunton","Keep Clear Marking (TRO)",10.00,1.00
+"Braunton","Limited Waiting",156.00,30.00
+"Braunton","Loading Only",4.00,1.00
+"Braunton","No Loading",450.00,80.00
+"Braunton","No Waiting",331.00,58.00
+"Braunton","No Waiting At Any Time",8265.00,1469.00
+"Braunton","Taxi Bay",7.00,1.00
+"Bridgerule","Keep Clear Marking (TRO)",23.00,4.00
+"Brixton","Keep Clear Marking (TRO)",18.00,3.00
+"Brixton","No Waiting At Any Time",116.00,20.00
+"Broadclyst","Keep Clear Marking (TRO)",79.00,14.00
+"Broadclyst","No Waiting At Any Time",643.00,113.00
+"Buckfast","No Waiting",641.00,116.00
+"Buckfast","No Waiting At Any Time",491.00,88.00
+"Buckfastleigh","Bus Stop Clearway",12.00,1.00
+"Buckfastleigh","Disabled Parking",25.00,4.00
+"Buckfastleigh","Keep Clear Marking (TRO)",66.00,11.00
+"Buckfastleigh","Limited Waiting",100.00,19.00
+"Buckfastleigh","Loading Only",44.00,5.00
+"Buckfastleigh","No Loading",12.00,2.00
+"Buckfastleigh","No Loading At Any Time",419.00,72.00
+"Buckfastleigh","No Waiting",1724.00,303.00
+"Buckfastleigh","No Waiting At Any Time",2854.00,496.00
+"Buckland In The Moor","No Waiting At Any Time",634.00,115.00
+"Buckland Monachorum","No Waiting At Any Time",10.00,1.00
+"Budleigh Salterton","Bus Stop Clearway",23.00,1.00
+"Budleigh Salterton","Limited Waiting",384.00,73.00
+"Budleigh Salterton","No Loading At Any Time",114.00,19.00
+"Budleigh Salterton","No Waiting",43.00,7.00
+"Budleigh Salterton","No Waiting At Any Time",6905.00,1220.00
+"Budleigh Salterton","Pay & Display",246.00,49.00
+"Budleigh Salterton","Public Service Vehicle Parking",14.00,1.00
+"Budleigh Salterton","Taxi Bay",8.00,1.00
+"Chagford","Bus Stop Clearway",26.00,2.00
+"Chagford","Disabled Parking",44.00,7.00
+"Chagford","Keep Clear Marking (Advisory)",25.00,4.00
+"Chagford","Limited Waiting",182.00,34.00
+"Chagford","Loading Only",53.00,5.00
+"Chagford","No Loading At Any Time",108.00,19.00
+"Chagford","No Waiting At Any Time",1833.00,325.00
+"Chagford","Permit Holders Only",12.00,2.00
+"Challaborough","No Waiting At Any Time",137.00,24.00
+"Chillington","Bus Stop Clearway",13.00,1.00
+"Chillington","Limited Waiting",17.00,3.00
+"Chillington","No Waiting At Any Time",119.00,18.00
+"Chivenor","No Waiting At Any Time",738.00,130.00
+"Christow","Keep Clear Marking (TRO)",32.00,5.00
+"Chudleigh","Bus Stop Clearway",46.00,4.00
+"Chudleigh","Disabled Parking",21.00,2.00
+"Chudleigh","Disabled Parking (Advisory)",7.00,1.00
+"Chudleigh","Keep Clear Marking (TRO)",31.00,5.00
+"Chudleigh","Limited Waiting",98.00,19.00
+"Chudleigh","Loading Only",37.00,3.00
+"Chudleigh","No Waiting At Any Time",2801.00,484.00
+"Chudleigh Knighton","Keep Clear Marking (TRO)",33.00,5.00
+"Clovelly","Loading Only",15.00,1.00
+"Clovelly","No Loading At Any Time",385.00,68.00
+"Clovelly","No Waiting At Any Time",416.00,72.00
+"Clyst Honiton","Bus Stop Clearway",13.00,1.00
+"Clyst Honiton","Clearway route",923.00,167.00
+"Clyst Honiton","No Waiting",31.00,5.00
+"Clyst Honiton","No Waiting At Any Time",2801.00,502.00
+"Clyst St Mary","Limited Waiting",70.00,13.00
+"Clyst St Mary","No Waiting",117.00,21.00
+"Clyst St Mary","No Waiting At Any Time",1323.00,230.00
+"Cockwood","Keep Clear Marking (TRO)",27.00,4.00
+"Cockwood","No Waiting At Any Time",226.00,39.00
+"Colyford","Keep Clear Marking (TRO)",22.00,3.00
+"Colyton","Bus Stop Clearway",26.00,2.00
+"Colyton","Disabled Parking",12.00,1.00
+"Colyton","Keep Clear Marking (TRO)",35.00,6.00
+"Colyton","No Waiting",550.00,99.00
+"Colyton","No Waiting At Any Time",933.00,156.00
+"Combe Martin","Bus Stop Clearway",32.00,2.00
+"Combe Martin","Disabled Parking",27.00,3.00
+"Combe Martin","Limited Waiting",110.00,20.00
+"Combe Martin","Loading Only",10.00,1.00
+"Combe Martin","No Loading At Any Time",32.00,5.00
+"Combe Martin","No Waiting",658.00,116.00
+"Combe Martin","No Waiting At Any Time",5385.00,951.00
+"Combe Martin","Parking Place",156.00,26.00
+"Combe Martin","Pay & Display",95.00,17.00
+"Combe Martin","Public Service Vehicle Parking",35.00,2.00
+"Copplestone","Disabled Parking",10.00,1.00
+"Copplestone","No Waiting At Any Time",748.00,128.00
+"Cornwood","Keep Clear Marking (TRO)",26.00,4.00
+"Cornwood","Limited Waiting",9.00,1.00
+"Cranbrook","Permit Holders Only",5.00,1.00
+"Crediton","Bus Stop Clearway",108.00,7.00
+"Crediton","Disabled Parking",64.00,7.00
+"Crediton","Disabled Parking (Advisory)",8.00,1.00
+"Crediton","Keep Clear Marking (TRO)",25.00,4.00
+"Crediton","Limited Waiting",746.00,140.00
+"Crediton","Loading Only",67.00,5.00
+"Crediton","No Loading",1059.00,185.00
+"Crediton","No Loading At Any Time",53.00,9.00
+"Crediton","No Waiting",2484.00,436.00
+"Crediton","No Waiting At Any Time",9438.00,1660.00
+"Crediton","Taxi Bay",6.00,1.00
+"Cross Roads","Bus Stop Clearway",15.00,1.00
+"Cross Roads","Keep Clear Marking (TRO)",26.00,4.00
+"Cross Roads","No Waiting At Any Time",85.00,14.00
+"Croyde","Clearway route",1035.00,187.00
+"Croyde","Limited Waiting",109.00,22.00
+"Croyde","No Waiting At Any Time",5957.00,1062.00
+"Cullompton","Bus Stop Clearway",19.00,1.00
+"Cullompton","Disabled Parking",52.00,6.00
+"Cullompton","Keep Clear Marking (TRO)",62.00,11.00
+"Cullompton","Limited Waiting",212.00,38.00
+"Cullompton","Loading Only",62.00,6.00
+"Cullompton","No Loading",81.00,14.00
+"Cullompton","No Loading At Any Time",150.00,26.00
+"Cullompton","No Waiting",289.00,48.00
+"Cullompton","No Waiting At Any Time",4575.00,802.00
+"Cullompton","Permit Holders Only",12.00,2.00
+"Dartington","No Waiting At Any Time",771.00,131.00
+"Dartmouth","Bus Stop Clearway",108.00,8.00
+"Dartmouth","Disabled Parking",25.00,3.00
+"Dartmouth","Emergency Service Vehicles",11.00,2.00
+"Dartmouth","Keep Clear Marking (TRO)",81.00,13.00
+"Dartmouth","Limited Waiting",1501.00,293.00
+"Dartmouth","Loading Only",32.00,3.00
+"Dartmouth","No Loading",507.00,88.00
+"Dartmouth","No Loading At Any Time",57.00,9.00
+"Dartmouth","No Waiting",778.00,133.00
+"Dartmouth","No Waiting At Any Time",13186.00,2340.00
+"Dartmouth","Permit Holders Only",30.00,5.00
+"Dartmouth","Public Service Vehicle Parking",49.00,3.00
+"Dartmouth","Residents Permit Parking",90.00,16.00
+"Dartmouth","Taxi Bay",22.00,3.00
+"Dawlish","Bus Stop Clearway",105.00,6.00
+"Dawlish","Disabled Parking",77.00,9.00
+"Dawlish","Disabled Parking (Advisory)",13.00,2.00
+"Dawlish","Keep Clear Marking (TRO)",229.00,38.00
+"Dawlish","Limited Waiting",310.00,57.00
+"Dawlish","Loading Only",66.00,5.00
+"Dawlish","M/Cycle Parking",6.00,2.00
+"Dawlish","No Loading At Any Time",415.00,73.00
+"Dawlish","No Waiting",343.00,60.00
+"Dawlish","No Waiting At Any Time",10231.00,1806.00
+"Dawlish","Pay & Display",471.00,91.00
+"Dawlish","Public Service Vehicle Parking",30.00,2.00
+"Dawlish Warren","Limited Waiting",15.00,3.00
+"Dawlish Warren","No Waiting At Any Time",2279.00,409.00
+"Diptford","No Waiting At Any Time",152.00,26.00
+"Dittisham","No Waiting At Any Time",336.00,56.00
+"Doddiscombsleigh","Keep Clear Marking (TRO)",62.00,10.00
+"Dousland","No Waiting At Any Time",556.00,101.00
+"Down Thomas","No Waiting At Any Time",2.00,1.00
+"Dunkeswell","No Waiting At Any Time",623.00,113.00
+"East","Bus Stop Clearway",0.00,1.00
+"East Allington","Keep Clear Marking (TRO)",34.00,6.00
+"East Budleigh","No Waiting At Any Time",755.00,134.00
+"East Portlemouth","No Waiting At Any Time",1293.00,228.00
+"East The Water","Bus Stop Clearway",37.00,2.00
+"East The Water","Disabled Parking",7.00,1.00
+"East The Water","Keep Clear Marking (TRO)",86.00,14.00
+"East The Water","No Waiting",575.00,101.00
+"East The Water","No Waiting At Any Time",3225.00,571.00
+"Ermington","Keep Clear Marking (TRO)",26.00,4.00
+"Ermington","No Waiting At Any Time",52.00,9.00
+"Exeter","Bus Stop Clearway",2143.00,127.00
+"Exeter","Clearway route",9382.00,1701.00
+"Exeter","Disabled Parking",543.00,74.00
+"Exeter","Disabled Parking (Advisory)",24.00,3.00
+"Exeter","Electric Vehicle Parking",35.00,6.00
+"Exeter","Emergency Service Vehicles",21.00,3.00
+"Exeter","Keep Clear Marking (TRO)",731.00,118.00
+"Exeter","Limited Waiting",4415.00,816.00
+"Exeter","Loading Only",914.00,93.00
+"Exeter","M/Cycle Parking",59.00,27.00
+"Exeter","No Loading",12693.00,2246.00
+"Exeter","No Loading At Any Time",3659.00,632.00
+"Exeter","No Waiting",22360.00,3933.00
+"Exeter","No Waiting At Any Time",76086.00,13616.00
+"Exeter","Pay & Display",7716.00,1485.00
+"Exeter","Permit Holders Only",232.00,43.00
+"Exeter","Public Service Vehicle Parking",313.00,21.00
+"Exeter","Residents Permit Parking",64341.00,12758.00
+"Exeter","Taxi Bay",80.00,14.00
+"Exminster","Bus Stop Clearway",41.00,3.00
+"Exminster","Keep Clear Marking (TRO)",41.00,7.00
+"Exminster","Limited Waiting",30.00,5.00
+"Exminster","No Waiting At Any Time",2005.00,340.00
+"Exminster","Permit Holders Only",11.00,2.00
+"Exmouth","Bus Stop Clearway",273.00,19.00
+"Exmouth","Disabled Parking",275.00,37.00
+"Exmouth","Disabled Parking (Advisory)",32.00,4.00
+"Exmouth","Keep Clear Marking (Advisory)",76.00,13.00
+"Exmouth","Keep Clear Marking (TRO)",152.00,27.00
+"Exmouth","Limited Waiting",1624.00,311.00
+"Exmouth","Loading Only",217.00,18.00
+"Exmouth","No Loading",54.00,9.00
+"Exmouth","No Loading At Any Time",310.00,52.00
+"Exmouth","No Waiting",1446.00,255.00
+"Exmouth","No Waiting At Any Time",32820.00,5844.00
+"Exmouth","Pay & Display",1069.00,201.00
+"Exmouth","Permit Holders Only",233.00,46.00
+"Exmouth","Prohibition of Motor Caravans",883.00,155.00
+"Exmouth","Taxi Bay",120.00,19.00
+"Exton","No Waiting At Any Time",138.00,24.00
+"Ford","No Waiting",53.00,9.00
+"Ford","No Waiting At Any Time",80.00,14.00
+"Fremington","Keep Clear Marking (TRO)",43.00,7.00
+"Fremington","No Loading",49.00,8.00
+"Fremington","No Waiting",13.00,2.00
+"Fremington","No Waiting At Any Time",504.00,86.00
+"Fremington","Residents Permit Parking",92.00,17.00
+"Frithelstock","No Waiting At Any Time",92.00,15.00
+"Galmpton","No Waiting At Any Time",372.00,67.00
+"Georgeham","Keep Clear Marking (TRO)",46.00,8.00
+"Georgeham","No Waiting",140.00,25.00
+"Georgeham","No Waiting At Any Time",288.00,51.00
+"Great Torrington","Bus Stop Clearway",100.00,7.00
+"Great Torrington","Disabled Parking",14.00,2.00
+"Great Torrington","Keep Clear Marking (TRO)",30.00,5.00
+"Great Torrington","Limited Waiting",361.00,68.00
+"Great Torrington","Loading Only",57.00,4.00
+"Great Torrington","No Loading",462.00,79.00
+"Great Torrington","No Loading At Any Time",37.00,6.00
+"Great Torrington","No Waiting",2520.00,435.00
+"Great Torrington","No Waiting At Any Time",3816.00,668.00
+"Halberton","Bus Stop Clearway",38.00,2.00
+"Harbertonford","Disabled Parking",14.00,2.00
+"Harbertonford","Keep Clear Marking (TRO)",61.00,10.00
+"Harbertonford","No Waiting At Any Time",235.00,37.00
+"Hartland","Keep Clear Marking (TRO)",42.00,7.00
+"Hartland","Limited Waiting",88.00,17.00
+"Hartland","No Waiting At Any Time",536.00,96.00
+"Hatherleigh","Keep Clear Marking (TRO)",55.00,9.00
+"Hatherleigh","Loading Only",36.00,3.00
+"Hatherleigh","No Waiting At Any Time",262.00,43.00
+"Hawkchurch","Keep Clear Marking (Advisory)",37.00,6.00
+"Heathfield","Bus Stop Clearway",13.00,1.00
+"Heathfield","Keep Clear Marking (TRO)",26.00,4.00
+"Heathfield","No Waiting",65.00,11.00
+"Heathfield","No Waiting At Any Time",138.00,25.00
+"Heybrook Bay","No Waiting At Any Time",354.00,63.00
+"Hillhead","No Waiting At Any Time",87.00,14.00
+"Holbeton","No Waiting",447.00,79.00
+"Holbeton","No Waiting At Any Time",279.00,51.00
+"Holne","No Waiting At Any Time",1.00,1.00
+"Holsworthy","Disabled Parking",8.00,1.00
+"Holsworthy","Disabled Parking (Advisory)",7.00,1.00
+"Holsworthy","Keep Clear Marking (TRO)",25.00,4.00
+"Holsworthy","Limited Waiting",195.00,39.00
+"Holsworthy","Loading Only",65.00,5.00
+"Holsworthy","No Loading",265.00,46.00
+"Holsworthy","No Loading At Any Time",17.00,2.00
+"Holsworthy","No Waiting",2321.00,412.00
+"Holsworthy","No Waiting At Any Time",4223.00,740.00
+"Honiton","Bus Stop Clearway",137.00,9.00
+"Honiton","Disabled Parking",26.00,3.00
+"Honiton","Keep Clear Marking (TRO)",103.00,17.00
+"Honiton","Limited Waiting",562.00,107.00
+"Honiton","Loading Only",42.00,3.00
+"Honiton","No Loading",241.00,41.00
+"Honiton","No Loading At Any Time",28.00,5.00
+"Honiton","No Waiting",1546.00,273.00
+"Honiton","No Waiting At Any Time",12254.00,2169.00
+"Hope Cove","Limited Waiting",29.00,5.00
+"Hope Cove","No Waiting",524.00,91.00
+"Hope Cove","No Waiting At Any Time",525.00,92.00
+"Horrabridge","Keep Clear Marking (TRO)",26.00,4.00
+"Horrabridge","No Waiting At Any Time",351.00,56.00
+"Ide","Keep Clear Marking (TRO)",24.00,4.00
+"Ide","No Waiting",18.00,3.00
+"Ide","No Waiting At Any Time",650.00,115.00
+"Ilfracombe","Bus Stop Clearway",206.00,15.00
+"Ilfracombe","Disabled Parking",118.00,16.00
+"Ilfracombe","Keep Clear Marking (TRO)",97.00,16.00
+"Ilfracombe","Limited Waiting",491.00,93.00
+"Ilfracombe","Loading Only",156.00,15.00
+"Ilfracombe","No Loading",1449.00,256.00
+"Ilfracombe","No Loading At Any Time",862.00,148.00
+"Ilfracombe","No Waiting",3285.00,575.00
+"Ilfracombe","No Waiting At Any Time",13561.00,2402.00
+"Ilfracombe","Pay & Display",477.00,93.00
+"Ilfracombe","Public Service Vehicle Parking",15.00,1.00
+"Ilsington","Keep Clear Marking (TRO)",26.00,4.00
+"Instow","Bus Stop Clearway",61.00,4.00
+"Instow","Limited Waiting",490.00,97.00
+"Instow","Loading Only",30.00,3.00
+"Instow","No Loading At Any Time",150.00,26.00
+"Instow","No Waiting",637.00,113.00
+"Instow","No Waiting At Any Time",2740.00,487.00
+"Ipplepen","Disabled Parking (Advisory)",7.00,1.00
+"Ipplepen","Keep Clear Marking (TRO)",30.00,5.00
+"Ipplepen","No Waiting At Any Time",198.00,34.00
+"Ivybridge","Bus Stop Clearway",71.00,2.00
+"Ivybridge","Disabled Parking",29.00,4.00
+"Ivybridge","Keep Clear Marking (TRO)",183.00,30.00
+"Ivybridge","Limited Waiting",302.00,54.00
+"Ivybridge","Loading Only",21.00,2.00
+"Ivybridge","M/Cycle Parking",13.00,1.00
+"Ivybridge","No Loading At Any Time",846.00,143.00
+"Ivybridge","No Waiting",601.00,105.00
+"Ivybridge","No Waiting At Any Time",7083.00,1240.00
+"Ivybridge","Residents Permit Parking",518.00,108.00
+"Kennford","Keep Clear Marking (TRO)",18.00,3.00
+"Kennford","Limited Waiting",14.00,2.00
+"Kennford","No Waiting",58.00,10.00
+"Kennford","No Waiting At Any Time",38.00,7.00
+"Kenton","No Waiting At Any Time",858.00,144.00
+"Kingsbridge","Bus Stop Clearway",64.00,5.00
+"Kingsbridge","Disabled Parking",28.00,5.00
+"Kingsbridge","Disabled Parking (Advisory)",20.00,3.00
+"Kingsbridge","Keep Clear Marking (TRO)",94.00,15.00
+"Kingsbridge","Limited Waiting",753.00,146.00
+"Kingsbridge","Loading Only",115.00,8.00
+"Kingsbridge","No Loading",735.00,131.00
+"Kingsbridge","No Loading At Any Time",72.00,12.00
+"Kingsbridge","No Waiting",3085.00,542.00
+"Kingsbridge","No Waiting At Any Time",10104.00,1788.00
+"Kingsbridge","Permit Holders Only",102.00,20.00
+"Kingsbridge","Taxi Bay",6.00,1.00
+"Kingskerswell","Bus Stop Clearway",12.00,1.00
+"Kingskerswell","Keep Clear Marking (TRO)",86.00,15.00
+"Kingskerswell","Limited Waiting",121.00,23.00
+"Kingskerswell","No Waiting At Any Time",2677.00,466.00
+"Kingsteignton","Bus Stop Clearway",210.00,12.00
+"Kingsteignton","Disabled Parking",7.00,1.00
+"Kingsteignton","Disabled Parking (Advisory)",7.00,1.00
+"Kingsteignton","Keep Clear Marking (TRO)",166.00,27.00
+"Kingsteignton","Limited Waiting",23.00,4.00
+"Kingsteignton","No Waiting At Any Time",4520.00,789.00
+"Kingston","No Waiting At Any Time",37.00,5.00
+"Kingswear","Bus Stop Clearway",19.00,1.00
+"Kingswear","Disabled Parking",12.00,1.00
+"Kingswear","Limited Waiting",29.00,5.00
+"Kingswear","No Waiting",67.00,12.00
+"Kingswear","No Waiting At Any Time",4024.00,714.00
+"Kingswear","Permit Holders Only",395.00,75.00
+"Lee Mill","No Waiting At Any Time",2608.00,464.00
+"Lee Mill Bridge","Disabled Parking",6.00,1.00
+"Lee Mill Bridge","No Waiting At Any Time",325.00,56.00
+"Lifton","No Waiting At Any Time",63.00,10.00
+"Liverton","Keep Clear Marking (TRO)",22.00,3.00
+"Liverton","No Loading At Any Time",157.00,27.00
+"Liverton","No Waiting At Any Time",215.00,38.00
+"Loddiswell","Keep Clear Marking (TRO)",30.00,5.00
+"Loddiswell","No Waiting At Any Time",143.00,23.00
+"Longcombe","No Waiting At Any Time",65.00,11.00
+"Lower Lovacott","Keep Clear Marking (Advisory)",26.00,4.00
+"Lympstone","Limited Waiting",41.00,8.00
+"Lympstone","No Waiting At Any Time",3434.00,609.00
+"Lynmouth","Disabled Parking",19.00,2.00
+"Lynmouth","Limited Waiting",370.00,73.00
+"Lynmouth","Loading Only",12.00,1.00
+"Lynmouth","No Loading At Any Time",88.00,15.00
+"Lynmouth","No Waiting",746.00,134.00
+"Lynmouth","No Waiting At Any Time",1752.00,308.00
+"Lynton","Clearway route",377.00,68.00
+"Lynton","Disabled Parking",10.00,1.00
+"Lynton","Limited Waiting",300.00,57.00
+"Lynton","No Loading At Any Time",35.00,6.00
+"Lynton","No Waiting",935.00,162.00
+"Lynton","No Waiting At Any Time",2573.00,450.00
+"Lynton","Taxi Bay",11.00,2.00
+"Malborough","Keep Clear Marking (TRO)",26.00,4.00
+"Malborough","No Waiting At Any Time",829.00,144.00
+"Marldon","Bus Stop Clearway",50.00,3.00
+"Marldon","Disabled Parking",7.00,1.00
+"Marldon","Keep Clear Marking (TRO)",63.00,10.00
+"Marldon","No Waiting At Any Time",807.00,137.00
+"Marldon","Residents Permit Parking",20.00,3.00
+"Merton","No Waiting At Any Time",12.00,2.00
+"Modbury","Bus Stop Clearway",14.00,1.00
+"Modbury","Disabled Parking",7.00,1.00
+"Modbury","Keep Clear Marking (TRO)",95.00,15.00
+"Modbury","Limited Waiting",74.00,15.00
+"Modbury","No Loading At Any Time",55.00,8.00
+"Modbury","No Waiting At Any Time",2083.00,365.00
+"Monkleigh","Keep Clear Marking (TRO)",25.00,4.00
+"Moorhaven","No Waiting At Any Time",35.00,6.00
+"Moretonhampstead","Disabled Parking",7.00,1.00
+"Moretonhampstead","Keep Clear Marking (TRO)",31.00,5.00
+"Moretonhampstead","Limited Waiting",169.00,31.00
+"Moretonhampstead","Loading Only",18.00,1.00
+"Moretonhampstead","No Loading",14.00,3.00
+"Moretonhampstead","No Loading At Any Time",168.00,30.00
+"Moretonhampstead","No Waiting",34.00,6.00
+"Moretonhampstead","No Waiting At Any Time",2903.00,514.00
+"Mortehoe","Clearway route",496.00,90.00
+"Mortehoe","Limited Waiting",12.00,2.00
+"Mortehoe","No Waiting",992.00,178.00
+"Mortehoe","No Waiting At Any Time",804.00,143.00
+"Muddlebridge","Bus Stop Clearway",151.00,11.00
+"Musbury","No Waiting At Any Time",50.00,8.00
+"Newton Abbot","Bus Stop Clearway",551.00,37.00
+"Newton Abbot","Disabled Parking",138.00,17.00
+"Newton Abbot","Disabled Parking (Advisory)",17.00,2.00
+"Newton Abbot","Keep Clear Marking (TRO)",307.00,52.00
+"Newton Abbot","Limited Waiting",1216.00,230.00
+"Newton Abbot","Loading Only",360.00,29.00
+"Newton Abbot","No Loading",906.00,160.00
+"Newton Abbot","No Loading At Any Time",2847.00,502.00
+"Newton Abbot","No Waiting",7421.00,1304.00
+"Newton Abbot","No Waiting At Any Time",23069.00,4090.00
+"Newton Abbot","Pay & Display",1375.00,264.00
+"Newton Abbot","Permit Holders Only",12.00,2.00
+"Newton Abbot","Residents Permit Parking",3697.00,725.00
+"Newton Abbot","Taxi Bay",36.00,5.00
+"Newton Ferrers","Keep Clear Marking (TRO)",49.00,8.00
+"Newton Ferrers","Limited Waiting",168.00,31.00
+"Newton Ferrers","No Waiting",390.00,69.00
+"Newton Ferrers","No Waiting At Any Time",806.00,142.00
+"Newton Poppleford","Bus Stop Clearway",82.00,5.00
+"Newton Poppleford","Keep Clear Marking (TRO)",40.00,7.00
+"Newton Poppleford","No Waiting At Any Time",332.00,53.00
+"Newton St Cyres","Bus Stop Clearway",39.00,2.00
+"Newton St Cyres","No Waiting At Any Time",245.00,40.00
+"North Tawton","Bus Stop Clearway",11.00,1.00
+"North Tawton","Disabled Parking",9.00,1.00
+"North Tawton","Keep Clear Marking (TRO)",32.00,5.00
+"North Tawton","Loading Only",9.00,1.00
+"North Tawton","No Loading At Any Time",239.00,40.00
+"North Tawton","No Waiting At Any Time",1583.00,277.00
+"Northam","Bus Stop Clearway",151.00,10.00
+"Northam","Keep Clear Marking (TRO)",80.00,13.00
+"Northam","Limited Waiting",82.00,16.00
+"Northam","No Waiting",209.00,37.00
+"Northam","No Waiting At Any Time",3937.00,687.00
+"Noss Mayo","No Waiting At Any Time",1190.00,213.00
+"Ogwell","Keep Clear Marking (TRO)",45.00,8.00
+"Ogwell","No Waiting At Any Time",952.00,162.00
+"Okehampton","Bus Stop Clearway",199.00,12.00
+"Okehampton","Disabled Parking",72.00,7.00
+"Okehampton","Limited Waiting",567.00,107.00
+"Okehampton","Loading Only",85.00,7.00
+"Okehampton","No Loading",244.00,43.00
+"Okehampton","No Loading At Any Time",722.00,120.00
+"Okehampton","No Waiting",972.00,166.00
+"Okehampton","No Waiting At Any Time",8140.00,1434.00
+"Okehampton","Taxi Bay",12.00,2.00
+"Otterton","No Waiting At Any Time",641.00,116.00
+"Ottery St Mary","Disabled Parking",24.00,3.00
+"Ottery St Mary","Limited Waiting",219.00,42.00
+"Ottery St Mary","Loading Only",30.00,3.00
+"Ottery St Mary","No Loading",74.00,13.00
+"Ottery St Mary","No Waiting",210.00,36.00
+"Ottery St Mary","No Waiting At Any Time",4669.00,820.00
+"Parkham","Bus Stop Clearway",15.00,1.00
+"Parkham","Keep Clear Marking (TRO)",53.00,8.00
+"Parracombe","Keep Clear Marking (Advisory)",26.00,4.00
+"Payhembury","Keep Clear Marking (Advisory)",70.00,11.00
+"Plymouth","Bus Stop Clearway",13.00,1.00
+"Plympton","Bus Stop Clearway",35.00,2.00
+"Plympton","No Waiting At Any Time",3830.00,688.00
+"Poundsgate","No Waiting At Any Time",1967.00,358.00
+"Princetown","Keep Clear Marking (TRO)",51.00,8.00
+"Princetown","Limited Waiting",61.00,12.00
+"Princetown","No Waiting",1054.00,189.00
+"Princetown","No Waiting At Any Time",2746.00,492.00
+"Rockbeare","Keep Clear Marking (TRO)",38.00,6.00
+"Rockbeare","No Waiting",46.00,8.00
+"Roundswell","No Waiting At Any Time",1806.00,320.00
+"Salcombe","Bus Stop Clearway",35.00,2.00
+"Salcombe","Disabled Parking",14.00,2.00
+"Salcombe","Disabled Parking (Advisory)",7.00,1.00
+"Salcombe","Keep Clear Marking (TRO)",42.00,7.00
+"Salcombe","Limited Waiting",382.00,68.00
+"Salcombe","No Loading",616.00,109.00
+"Salcombe","No Loading At Any Time",214.00,37.00
+"Salcombe","No Waiting At Any Time",15027.00,2681.00
+"Salcombe","Permit Holders Only",5.00,1.00
+"Salcombe","Residents Permit Parking",217.00,40.00
+"Salcombe","Taxi Bay",5.00,1.00
+"Sampford Peverell","Limited Waiting",179.00,34.00
+"Sampford Peverell","No Waiting At Any Time",1582.00,283.00
+"Sandford","Limited Waiting",10.00,2.00
+"Sandford","No Waiting At Any Time",66.00,11.00
+"Saunton","No Waiting At Any Time",2898.00,526.00
+"Seaton","Bus Stop Clearway",97.00,6.00
+"Seaton","Disabled Parking",160.00,23.00
+"Seaton","Emergency Service Vehicles",22.00,4.00
+"Seaton","Keep Clear Marking (TRO)",99.00,17.00
+"Seaton","Limited Waiting",546.00,103.00
+"Seaton","Loading Only",37.00,3.00
+"Seaton","No Loading",103.00,18.00
+"Seaton","No Loading At Any Time",703.00,121.00
+"Seaton","No Waiting",461.00,82.00
+"Seaton","No Waiting At Any Time",11285.00,2004.00
+"Seaton","Pay & Display",454.00,91.00
+"Seaton","Residents Permit Parking",139.00,28.00
+"Seaton","Taxi Bay",27.00,4.00
+"Shaldon","Bus Stop Clearway",57.00,3.00
+"Shaldon","Keep Clear Marking (TRO)",26.00,4.00
+"Shaldon","Limited Waiting",161.00,30.00
+"Shaldon","Loading Only",27.00,3.00
+"Shaldon","No Loading",60.00,10.00
+"Shaldon","No Loading At Any Time",277.00,50.00
+"Shaldon","No Waiting",5.00,1.00
+"Shaldon","No Waiting At Any Time",7531.00,1333.00
+"Shaugh Prior","Keep Clear Marking (TRO)",32.00,5.00
+"Sidbury","No Waiting At Any Time",201.00,35.00
+"Sidford","No Loading",21.00,3.00
+"Sidford","No Waiting",731.00,130.00
+"Sidford","No Waiting At Any Time",609.00,104.00
+"Sidmouth","Bus Stop Clearway",142.00,10.00
+"Sidmouth","Disabled Parking",108.00,14.00
+"Sidmouth","Keep Clear Marking (TRO)",135.00,22.00
+"Sidmouth","Limited Waiting",716.00,139.00
+"Sidmouth","Loading Only",97.00,8.00
+"Sidmouth","No Loading",270.00,47.00
+"Sidmouth","No Loading At Any Time",1152.00,201.00
+"Sidmouth","No Waiting",4553.00,805.00
+"Sidmouth","No Waiting At Any Time",12832.00,2266.00
+"Sidmouth","Pay & Display",246.00,49.00
+"Sidmouth","Public Service Vehicle Parking",76.00,5.00
+"Silverton","No Waiting At Any Time",498.00,87.00
+"Slapton","No Waiting",1.00,1.00
+"South Brent","Bus Stop Clearway",47.00,3.00
+"South Brent","Disabled Parking",6.00,1.00
+"South Brent","Keep Clear Marking (TRO)",41.00,7.00
+"South Brent","Limited Waiting",89.00,16.00
+"South Brent","Loading Only",15.00,1.00
+"South Brent","No Loading At Any Time",53.00,8.00
+"South Brent","No Waiting",188.00,33.00
+"South Brent","No Waiting At Any Time",1425.00,248.00
+"South Milton","No Waiting At Any Time",1257.00,227.00
+"South Molton","Disabled Parking",20.00,3.00
+"South Molton","Keep Clear Marking (TRO)",23.00,4.00
+"South Molton","Limited Waiting",547.00,105.00
+"South Molton","Loading Only",29.00,3.00
+"South Molton","No Loading",78.00,13.00
+"South Molton","No Loading At Any Time",72.00,13.00
+"South Molton","No Waiting",4619.00,822.00
+"South Molton","No Waiting At Any Time",2987.00,523.00
+"South Zeal","Keep Clear Marking (TRO)",44.00,7.00
+"South Zeal","Limited Waiting",13.00,2.00
+"South Zeal","No Waiting At Any Time",178.00,27.00
+"Sparkwell","Keep Clear Marking (TRO)",44.00,8.00
+"Staddiscombe","No Waiting At Any Time",1087.00,196.00
+"Starcross","Bus Stop Clearway",48.00,3.00
+"Starcross","Disabled Parking",13.00,2.00
+"Starcross","Keep Clear Marking (TRO)",44.00,8.00
+"Starcross","Limited Waiting",40.00,8.00
+"Starcross","No Waiting",166.00,29.00
+"Starcross","No Waiting At Any Time",1367.00,239.00
+"Staverton","No Waiting At Any Time",64.00,11.00
+"Sticklepath","Bus Stop Clearway",223.00,15.00
+"Sticklepath","Clearway route",905.00,164.00
+"Sticklepath","Disabled Parking",7.00,1.00
+"Sticklepath","Disabled Parking (Advisory)",21.00,3.00
+"Sticklepath","Keep Clear Marking (TRO)",31.00,5.00
+"Sticklepath","Limited Waiting",100.00,18.00
+"Sticklepath","No Waiting",1617.00,283.00
+"Sticklepath","No Waiting At Any Time",2550.00,445.00
+"Sticklepath","Public Service Vehicle Parking",144.00,10.00
+"Sticklepath","Residents Permit Parking",2871.00,572.00
+"Stoke Canon","Keep Clear Marking (TRO)",19.00,3.00
+"Stoke Canon","No Waiting At Any Time",134.00,22.00
+"Stoke Fleming","Keep Clear Marking (TRO)",3.00,1.00
+"Stoke Fleming","No Waiting At Any Time",491.00,86.00
+"Stoke Gabriel","Keep Clear Marking (TRO)",38.00,6.00
+"Stoke Gabriel","Limited Waiting",60.00,11.00
+"Stoke Gabriel","No Waiting At Any Time",1836.00,323.00
+"Stokeinteignhead","Keep Clear Marking (TRO)",26.00,4.00
+"Stokenham","Keep Clear Marking (TRO)",34.00,6.00
+"Stokenham","No Waiting At Any Time",30.00,5.00
+"Tavistock","Bus Stop Clearway",165.00,11.00
+"Tavistock","Clearway route",715.00,129.00
+"Tavistock","Disabled Parking",54.00,7.00
+"Tavistock","Keep Clear Marking (TRO)",108.00,18.00
+"Tavistock","Limited Waiting",1352.00,259.00
+"Tavistock","Loading Only",136.00,12.00
+"Tavistock","No Loading",248.00,42.00
+"Tavistock","No Loading At Any Time",1249.00,215.00
+"Tavistock","No Waiting",2045.00,358.00
+"Tavistock","No Waiting At Any Time",12656.00,2230.00
+"Tavistock","Public Service Vehicle Parking",70.00,4.00
+"Tedburn St Mary","Disabled Parking",7.00,1.00
+"Tedburn St Mary","Keep Clear Marking (TRO)",31.00,5.00
+"Tedburn St Mary","No Waiting At Any Time",192.00,31.00
+"Teigngrace","No Waiting At Any Time",456.00,80.00
+"Teignmouth","Bus Stop Clearway",217.00,13.00
+"Teignmouth","Disabled Parking",56.00,7.00
+"Teignmouth","Keep Clear Marking (TRO)",315.00,52.00
+"Teignmouth","Limited Waiting",615.00,112.00
+"Teignmouth","Loading Only",347.00,31.00
+"Teignmouth","No Loading",309.00,55.00
+"Teignmouth","No Loading At Any Time",493.00,82.00
+"Teignmouth","No Waiting",299.00,53.00
+"Teignmouth","No Waiting At Any Time",15220.00,2693.00
+"Teignmouth","Pay & Display",1272.00,251.00
+"Teignmouth","Permit Holders Only",54.00,9.00
+"Teignmouth","Public Service Vehicle Parking",53.00,3.00
+"Teignmouth","Residents Permit Parking",1416.00,283.00
+"Thorverton","Keep Clear Marking (TRO)",44.00,8.00
+"Thorverton","No Waiting At Any Time",43.00,7.00
+"Thurlestone","Disabled Parking",22.00,3.00
+"Thurlestone","Keep Clear Marking (TRO)",45.00,8.00
+"Thurlestone","No Waiting At Any Time",3436.00,619.00
+"Tiverton","Bus Stop Clearway",131.00,8.00
+"Tiverton","Disabled Parking",79.00,11.00
+"Tiverton","Keep Clear Marking (TRO)",218.00,37.00
+"Tiverton","Limited Waiting",666.00,128.00
+"Tiverton","Loading Only",101.00,9.00
+"Tiverton","No Loading",229.00,41.00
+"Tiverton","No Loading At Any Time",150.00,27.00
+"Tiverton","No Waiting",1974.00,343.00
+"Tiverton","No Waiting At Any Time",16259.00,2884.00
+"Tiverton","Permit Holders Only",40.00,8.00
+"Tiverton","Taxi Bay",20.00,3.00
+"Topsham","Bus Stop Clearway",12.00,1.00
+"Topsham","Disabled Parking",23.00,3.00
+"Topsham","Keep Clear Marking (TRO)",45.00,8.00
+"Topsham","Limited Waiting",413.00,77.00
+"Topsham","Loading Only",18.00,1.00
+"Topsham","No Loading",18.00,3.00
+"Topsham","No Waiting",34.00,5.00
+"Topsham","No Waiting At Any Time",6073.00,1068.00
+"Topsham","Pay & Display",472.00,93.00
+"Topsham","Residents Permit Parking",2951.00,588.00
+"Torcross","No Waiting",1106.00,198.00
+"Torcross","No Waiting At Any Time",81.00,14.00
+"Torquay","Bus Stop Clearway",34.00,2.00
+"Totnes","Bus Stop Clearway",211.00,14.00
+"Totnes","Disabled Parking",71.00,10.00
+"Totnes","Keep Clear Marking (TRO)",237.00,40.00
+"Totnes","Limited Waiting",716.00,136.00
+"Totnes","Loading Only",57.00,4.00
+"Totnes","No Loading",12.00,2.00
+"Totnes","No Loading At Any Time",40.00,7.00
+"Totnes","No Waiting",3416.00,600.00
+"Totnes","No Waiting At Any Time",14071.00,2504.00
+"Totnes","Pay & Display",282.00,54.00
+"Totnes","Permit Holders Only",33.00,6.00
+"Totnes","Residents Permit Parking",3095.00,618.00
+"Uffculme","No Waiting At Any Time",1213.00,217.00
+"Ugborough","Keep Clear Marking (TRO)",33.00,5.00
+"Uplyme","No Waiting At Any Time",49.00,8.00
+"Wembury","Keep Clear Marking (TRO)",35.00,6.00
+"Wembury","No Waiting",579.00,102.00
+"West","Bus Stop Clearway",235.00,10.00
+"West Alvington","Bus Stop Clearway",13.00,1.00
+"West Alvington","No Waiting At Any Time",536.00,95.00
+"West Charleton","Keep Clear Marking (TRO)",31.00,5.00
+"Westward Ho!","Bus Stop Clearway",85.00,6.00
+"Westward Ho!","Limited Waiting",78.00,14.00
+"Westward Ho!","No Loading At Any Time",423.00,74.00
+"Westward Ho!","No Waiting",62.00,11.00
+"Westward Ho!","No Waiting At Any Time",2739.00,487.00
+"Widecombe In The Moor","Keep Clear Marking (TRO)",26.00,4.00
+"Widecombe In The Moor","No Waiting",1796.00,323.00
+"Willand","No Waiting At Any Time",866.00,154.00
+"Winkleigh","No Waiting At Any Time",42.00,6.00
+"Woodbury","Limited Waiting",47.00,8.00
+"Woolacombe","Bus Stop Clearway",40.00,3.00
+"Woolacombe","Clearway route",865.00,157.00
+"Woolacombe","Limited Waiting",424.00,83.00
+"Woolacombe","No Loading At Any Time",40.00,7.00
+"Woolacombe","No Waiting",631.00,113.00
+"Woolacombe","No Waiting At Any Time",4016.00,715.00
+"Woolacombe","Pay & Display",559.00,112.00
+"Woolacombe","Residents Permit Parking",300.00,59.00
+"Woolacombe","Taxi Bay",39.00,6.00
+"Woolston Green","Keep Clear Marking (TRO)",26.00,4.00
+"Woolwell","No Waiting At Any Time",291.00,46.00
+"Wrangaton","No Waiting At Any Time",103.00,17.00
+"Yealmpton","Keep Clear Marking (TRO)",27.00,4.00
+"Yealmpton","Limited Waiting",80.00,15.00
+"Yealmpton","No Waiting",75.00,13.00
+"Yealmpton","No Waiting At Any Time",616.00,106.00
+"Yelverton","Disabled Parking (Advisory)",25.00,4.00
+"Yelverton","Limited Waiting",97.00,19.00
+"Yelverton","No Waiting At Any Time",377.00,61.00
